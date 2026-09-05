@@ -59,7 +59,7 @@
   <rect x="12" y="12" width="976" height="286" rx="14" class="panel"/>
 
   <g clip-path="url(#panel-clip)">
-    <path d="M70 215 C230 25 760 15 930 206 C770 276 250 289 70 215Z" class="orbit accent-stroke"/>
+    <path d="M70 215 C70 25 930 15 930 206 C930 276 70 289 70 215Z" class="orbit accent-stroke"/>
     <path d="M95 72 C305 258 682 273 905 82" class="orbit accent-stroke" style="animation-direction:reverse;opacity:.15"/>
 
     <g opacity=".34" class="accent">
@@ -68,7 +68,7 @@
     </g>
 
     <circle r="3" class="warm">
-      <animateMotion dur="12s" repeatCount="indefinite" path="M70 215 C230 25 760 15 930 206 C770 276 250 289 70 215Z"/>
+      <animateMotion dur="12s" repeatCount="indefinite" path="M70 215 C70 25 930 15 930 206 C930 276 70 289 70 215Z"/>
     </circle>
 
     <rect x="12" y="-74" width="976" height="70" class="scan"/>
